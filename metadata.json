@@ -1,0 +1,7 @@
+{
+  "name": "NutriScan AI",
+  "description": "AI-powered food recognition, calorie tracking, and personalized health advice application.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
